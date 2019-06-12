@@ -1,0 +1,1 @@
+I just wanted to see if I could do the "Practicing Git Basics" all by myself without looking at the guide.
